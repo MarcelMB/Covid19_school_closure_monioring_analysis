@@ -9,7 +9,8 @@ The analysis includes timepoints from early 2020 till the end of 2021.
 
 ## How to use?
 
-The analysis code is based on several jupyter notebooks:
+The analysis code is based on several jupyter notebooks.
+The dataset *UNESCO_school_closures_database* is included. Check the Data source chapter for credits to its origin.
 
 
 1. In a first step the dataset is cleaned and summarized?  
@@ -27,7 +28,14 @@ Use: *exploratory_analysis_and_plots*
 4. An example statistical hypothesis testing using a two-sample t-test is used in a different jupyter notebook. Here the average amount of closed schools due to Covid-19 between low and high income countries is compared. Further details are mentioned in the markdown areas of the notebook. 
 Use: *unesco_data_hypothesis_testing*
 
-## Credits
+## Data source:
 
+UNESCO Institute for Statistics (Excel format)
+https://covid19.uis.unesco.org/global-monitoring-school-closures-covid19/
+
+
+Other resources of updated and similar datasets:
+https://covid19.uis.unesco.org/data/
+https://en.unesco.org/covid19/educationresponse
 
 ## License
