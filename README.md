@@ -34,6 +34,8 @@ For better understanding of the dataset a PDF *Global-Monitoring-COVID19_Methodo
 ### Exemplary Figure from analysis script:
 ![alt text](https://github.com/MarcelMB/Covid19_school_closure_monioring_analysis/blob/main/example_figure_1.png)
 
+**_A PDF shwos the presentation of the generated figures with additonal explenations._**
+* USE: *presentation.pdf*
 
 **_4._** An example statistical hypothesis testing using a two-sample t-test is used in a different jupyter notebook. 
 * Here the average amount of closed schools due to Covid-19 between low and high income countries is compared. Further details are mentioned in the markdown areas of the notebook. 
