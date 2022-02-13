@@ -47,3 +47,6 @@ https://covid19.uis.unesco.org/data/
 https://en.unesco.org/covid19/educationresponse
 
 ## License
+
+ **GNU General Public License v3.0**-
+ see LICENSE file
