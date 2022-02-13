@@ -26,16 +26,15 @@ For better understanding of the dataset a PDF *Global-Monitoring-COVID19_Methodo
 
 **_3._** The following jupyter notebook explores the data and plots the relevant figures. 
 * All figures are saved to the current working directory. 
-* Use: *exploratory_analysis_and_plots*
+* Use: *exploratory_analysis_and_plots*. 
+
+### Exemplary Figure from analysis script:
+![alt text](https://github.com/MarcelMB/Covid19_school_closure_monioring_analysis/blob/main/example_figure_1.png)
+
 
 **_4._** An example statistical hypothesis testing using a two-sample t-test is used in a different jupyter notebook. 
 * Here the average amount of closed schools due to Covid-19 between low and high income countries is compared. Further details are mentioned in the markdown areas of the notebook. 
 * Use: *unesco_data_hypothesis_testing*
-
-
-![alt text] (https://github.com/MarcelMB/Covid19_school_closure_monioring_analysis/blob/main/example_figure_1.jpg "Test tt")
-
-
 
 ## Data source:
 
