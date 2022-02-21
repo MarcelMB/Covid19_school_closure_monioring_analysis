@@ -1,4 +1,4 @@
-# Covid19 school closure monioring analysis
+# Covid19 school closure monitoring analysis
 
 This analysis was performed as part of a project week within the Ironhack Data Anaylsis Bootcamp.
 
